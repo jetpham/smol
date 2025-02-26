@@ -153,6 +153,7 @@ mod tests {
                 Mul => "*",
                 Div => "/",
                 Lt => "<",
+                Tilde => "~",
             },
         }
     }
